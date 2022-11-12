@@ -5,7 +5,7 @@
 
 # Sections
 
-*What sections and where to place them.*
+*Sections and where to place them.*
 
 </div>
 
